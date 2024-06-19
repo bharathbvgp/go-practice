@@ -11,6 +11,10 @@ func f(from string) {
 	}
 }
 
+
+
+
+
 func say (s string) {
 	for i := 0 ; i < 5 ; i ++ {
 		fmt.Println(s);
@@ -32,5 +36,12 @@ func main() {
 
 	go say("hello from goroutine");
 	say("hello synchronous");
+
+
+	// using ping and pongs 
+
+	// i need to two channels
+
+	
 
 }

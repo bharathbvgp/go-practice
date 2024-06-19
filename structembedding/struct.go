@@ -7,7 +7,7 @@ type base struct {
 }
 
 type container struct {
-	// EMBEDDING A STRUCT INSIDE OF STRUCT
+	// EMBEDDING A STRUCT INSIDE OF STRUCT 
 	base 
 	str string
 }
