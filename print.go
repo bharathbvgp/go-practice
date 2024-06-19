@@ -8,3 +8,7 @@ func main() {
 	// fmt.Printf("My name is : %s , age is  : %d" , name , age);
 	fmt.Printf("My name is : %s , age is  : %d and type is : %T and %T" , name , age , name , age);
 }
+
+
+
+
