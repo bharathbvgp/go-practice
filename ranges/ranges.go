@@ -42,7 +42,6 @@ func main() {
 		fmt.Println(i , string(c));
 	}
 
-
 }
 
 
